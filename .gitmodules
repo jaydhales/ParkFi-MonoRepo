@@ -4,3 +4,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/Psalmuel01/parkFi-frontend
+[submodule "SubGraph"]
+	path = SubGraph
+	url = https://github.com/jaydhales/ParkFi-SubGraph
