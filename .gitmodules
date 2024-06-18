@@ -1,0 +1,6 @@
+[submodule "Contracts"]
+	path = Contracts
+	url = https://github.com/DevPelz/ParkFi
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Psalmuel01/parkFi-frontend
