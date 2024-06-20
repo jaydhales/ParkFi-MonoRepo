@@ -6,6 +6,9 @@ ParkFi is your go-to solution for convenient and secure parking. Our platform is
 
 ## Table of Contents
 
+- [Live Link](#live-link)
+- [Presentation Slides](#presentation-slides)
+- [Demo Video](#demo-video)
 - [Introduction](#introduction)
 - [Features](#features)
 - [How It Works](#how-it-works)
@@ -14,8 +17,19 @@ ParkFi is your go-to solution for convenient and secure parking. Our platform is
   - [Check-In and Check-Out](#check-in-and-check-out)
 - [Verification](#verification)
 - [Deployment](#deployment)
-- [Live Link](#live-link)
 - [License](#license)
+
+## Live Link
+
+Check out the live deployment of ParkFi [here](https://park-fi-frontend.vercel.app/).
+
+## Presentation Slides
+
+Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ5miYBS5ZJiSwjzRk0EpW/Hack-Template---HT-OS?node-id=934-3538&t=Foxu8XFInCunV9Wr-0&scaling=contain&content-scaling=fixed&page-id=934%3A2937&starting-point-node-id=934%3A3538).
+
+## Demo Video
+
+Check out our demo video [here](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk)
 
 ## Introduction
 
@@ -49,10 +63,6 @@ We use zkPass to verify members and owners using their legal identities. This ve
 ## Deployment
 
 The ParkFi platform is deployed on the Ethereum blockchain. Users can interact with the contracts using compatible wallets such as MetaMask.
-
-## Live Link
-
-Check out the live deployment of ParkFi [here](https://park-fi-frontend.vercel.app/).
 
 ## License
 
