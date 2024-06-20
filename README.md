@@ -31,7 +31,7 @@ Check out our pitch video [here](https://youtu.be/H1ImrBl0xbE)
 
 ## Demo Video
 
-Check out our demo video [here]([https://youtu.be/H1ImrBl0xbE](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk))
+Check out our demo video [here](https://youtu.be/H1ImrBl0xbE](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk)
 
 ## Presentation Slides
 
