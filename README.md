@@ -1,6 +1,6 @@
-# ParkFi-MonoRepo
+# muAccra Hackathon
 
-# ParkFi
+# ParkFi Project
 
 ParkFi is your go-to solution for convenient and secure parking. Our platform is designed to simplify the process of finding and reserving parking spots, making it easy to park anywhere in the city. By partnering with existing parking spaces, we tokenize them as Park Space NFTs, enhancing their security and value.
 
@@ -9,6 +9,7 @@ ParkFi is your go-to solution for convenient and secure parking. Our platform is
 - [Live Link](#live-link)
 - [Presentation Slides](#presentation-slides)
 - [Demo Video](#demo-video)
+- [Figma Link](#figma-link)
 - [Introduction](#introduction)
 - [Features](#features)
 - [How It Works](#how-it-works)
@@ -30,6 +31,10 @@ Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ
 ## Demo Video
 
 Check out our demo video [here](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk)
+
+## Figma Link
+
+Check out the figma link [here](https://www.figma.com/design/QNK4aG2yYRC5Wp1NSBRu7q/ParkFi?node-id=0-1&t=7jIB1k5wNnjwvUj5-1)
 
 ## Introduction
 
