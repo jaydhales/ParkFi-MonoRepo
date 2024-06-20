@@ -7,8 +7,9 @@ ParkFi is your go-to solution for convenient and secure parking. Our platform is
 ## Table of Contents
 
 - [Live Link](#live-link)
-- [Presentation Slides](#presentation-slides)
+- [Pitch Video](#pitch-video)
 - [Demo Video](#demo-video)
+- [Presentation Slides](#presentation-slides)
 - [Figma Link](#figma-link)
 - [Introduction](#introduction)
 - [Features](#features)
@@ -24,13 +25,17 @@ ParkFi is your go-to solution for convenient and secure parking. Our platform is
 
 Check out the live deployment of ParkFi [here](https://park-fi-frontend.vercel.app/).
 
-## Presentation Slides
+## Pitch Video
 
-Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ5miYBS5ZJiSwjzRk0EpW/Hack-Template---HT-OS?node-id=934-3538&t=Foxu8XFInCunV9Wr-0&scaling=contain&content-scaling=fixed&page-id=934%3A2937&starting-point-node-id=934%3A3538).
+Check out our pitch video [here](https://youtu.be/H1ImrBl0xbE)
 
 ## Demo Video
 
-Check out our demo video [here](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk)
+Check out our demo video [here]([https://youtu.be/H1ImrBl0xbE](https://drive.google.com/file/d/1oMQeLhARnfKKNonB7ebCTjH3IfI3IlAu/view?usp=drivesdk))
+
+## Presentation Slides
+
+Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ5miYBS5ZJiSwjzRk0EpW/Hack-Template---HT-OS?node-id=934-3538&t=Foxu8XFInCunV9Wr-0&scaling=contain&content-scaling=fixed&page-id=934%3A2937&starting-point-node-id=934%3A3538).
 
 ## Figma Link
 
