@@ -35,7 +35,7 @@ Check out our demo video [here](https://www.loom.com/share/0f41008b7a784177b5eaf
 
 ## Presentation Slides
 
-Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ5miYBS5ZJiSwjzRk0EpW/Hack-Template---HT-OS)
+Check out the ParkFi's presentation slides [here](https://www.figma.com/proto/XQ5miYBS5ZJiSwjzRk0EpW/Hack-Template---HT-OS?node-id=934-3538&t=Foxu8XFInCunV9Wr-0&scaling=contain&content-scaling=fixed&page-id=934%3A2937&starting-point-node-id=934%3A3538)
 
 ## Figma Link
 
